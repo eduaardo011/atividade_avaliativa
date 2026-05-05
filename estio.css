@@ -1,3 +1,26 @@
 body{
-    h1{color:}
+background-image: url(img/imagem\ de\ fundo\ site.jpg);
+background-size: 1920px 980px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+h1 {
+color:red;    
+        
+}
+    h2{
+        color: darkred;
+    }
+    li{
+        color: darkgray
+    }
+    tr{
+        color: darkgrey
+    }
+    p{
+        color: darkred;
+        
+    }
+    a{
+        color: gray;
+    }
 }
